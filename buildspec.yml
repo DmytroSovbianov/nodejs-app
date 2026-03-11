@@ -4,7 +4,7 @@ phases:
   install:
     commands:
       - echo "Installing dependencies..."
-  pre-build:
+  pre_build:
     commands:
       - echo "Running prebuild commands"
   build:
